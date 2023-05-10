@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Parks Solutions',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/jrparks/kasm-registry/',
+    listUrl: 'https://jrparks.github.io/kasm-registry/1.0/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
